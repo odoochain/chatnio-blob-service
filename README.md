@@ -4,7 +4,7 @@
 
 **File Service for Chat Nio**
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Deeptrain-Community/chatnio-blob-service)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/odoochain/chatnio-blob-service)
 
 </div>
 
@@ -172,7 +172,7 @@ Response
 > When OCR is enabled, the service will automatically extract text from the image and **skip the original image storage solution** below.
 
 - `OCR_ENABLED` Image OCR Enabled (`1` for **Enabled**, `0` for **Disabled**, Default is **Disabled**)
-- `OCR_ENDPOINT` Paddle OCR Endpoint ([Deploy PaddleOCR API](https://github.com/cgcel/PaddleOCRFastAPI))
+- `OCR_ENDPOINT` Paddle OCR Endpoint ([Deploy PaddleOCR API](https://github.com/odoochain/PaddleOCRFastAPI))
     - e.g.: *http://example.com:8000*
 
 Advanced OCR Config:
